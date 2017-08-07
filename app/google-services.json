@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "944223909435",
+    "firebase_url": "https://mysteriousreadingapp.firebaseio.com",
+    "project_id": "mysteriousreadingapp",
+    "storage_bucket": "mysteriousreadingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944223909435:android:9f30d10b3de26032",
+        "android_client_info": {
+          "package_name": "com.example.elvis.mysteriousreadingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944223909435-pdqstbd2obsh6ud8ga04cda06qbrkh8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elvis.mysteriousreadingapp",
+            "certificate_hash": "135344fb53dbedaa01db524b5ef49c23624cac58"
+          }
+        },
+        {
+          "client_id": "944223909435-gu82k6qceijj1dvp4hcckrmbhl56m909.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-F0_YKOdTvTE9pYuezV5oE4cmEN7_odg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944223909435-gu82k6qceijj1dvp4hcckrmbhl56m909.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
